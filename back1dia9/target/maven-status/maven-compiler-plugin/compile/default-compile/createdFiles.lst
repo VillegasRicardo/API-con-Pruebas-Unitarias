@@ -1,0 +1,10 @@
+back1dia9\controllers\ProductoController.class
+back1dia9\Back1dia9Application.class
+back1dia9\repository\CategoriaRepository.class
+back1dia9\repository\ProductoRepository.class
+back1dia9\service\ResourceNotFoundException.class
+back1dia9\service\CategoriaService.class
+back1dia9\service\ProductoService.class
+back1dia9\controllers\CategoriaController.class
+back1dia9\entity\Categoria.class
+back1dia9\entity\Producto.class
